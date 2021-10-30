@@ -1,17 +1,17 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-ShadowZ/ShadowZ-VCBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-- Support Channel :- [Awesome Bot](http://t.me/LaylaList)
+- Support Channel :- [Master X Bot's Updates](http://t.me/Master_X_Updates)
 
-- Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
+- Support Group :- [Best Friends](http://t.me/Best_Friends15)
 
 
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @QueenArzoo
+(C) @Team-ShadowZ
 
 ```
 
@@ -91,5 +91,5 @@ If you donlt like to play in linked channel:
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Awesome Bot](http://t.me/LaylaList) Channel bot list
-- [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+- [Master X Bot's Updates](http://t.me/Master_X_Updates) Bot Updates Channel
+- [Dev](http://t.me/RGamer_s) Hero owner of this bot
